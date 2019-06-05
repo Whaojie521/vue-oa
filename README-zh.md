@@ -16,7 +16,7 @@
 git clone https://github.com/Whaojie521/vue-oa
 
 # 进入项目目录
-cd vue-admin-template
+cd vue-oa
 
 # 安装依赖
 npm install

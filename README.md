@@ -17,7 +17,7 @@ English | [简体中文](./README-zh.md)
 git clone https://github.com/Whaojie521/vue-oa
 
 # enter the project directory
-cd vue-admin-template
+cd vue-oa
 
 # install dependency
 npm install
